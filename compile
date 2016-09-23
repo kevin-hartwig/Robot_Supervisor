@@ -1,0 +1,31 @@
+#!/bin/bash
+# 
+# ./COMPILE ################################################
+#
+# Running this script will remove, compile, and test for the
+# executable that should have been produced for each 
+# compilation.  An error message will be produced if any
+# sources fail to comiple
+#
+#	FOR: 	ProjectAPI
+#	BY:		Kevin Hartwig
+#	ON:		APRIL 9, 2016
+#
+############################################################
+
+
+rm COMMS host
+
+gcc COMMS.c -o COMMS 
+gcc main.c -o host
+
+if [ ! -f COMMS ]
+then
+echo "COMMS failed to compile"
+fi
+
+if [ ! -f host ]
+then 
+echo "host failed to compile"
+fi
+
