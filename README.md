@@ -11,7 +11,7 @@
 
 Hello and welcome to the repository for the Platform Supervisor.  See the [documentation repository](https://github.com/oovi77/Robot-Documentation-) for additional project information. 
 
-This repository is home to all of the code for controlling the platform supervisor from a PC running Linux.  
+This repository is home to all of the code for controlling the platform controller from a PC running Linux.  
 
 ##Usage Instructions
 
