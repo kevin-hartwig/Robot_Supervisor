@@ -2,6 +2,11 @@
 
 *Authors: James Sonnenberg, Kevin Hartwig and Ovi Ofrim*
 
+
+###Related Project Repositories:
+ + [Project Documentation](https://github.com/oovi77/Robot-Documentation-)
+ + [Platform Controller](https://github.com/kevin-hartwig/Robot_Platform)
+
 ##Repo Info
 
 Hello and welcome to the repository for the Platform Supervisor.  See the [documentation repository](https://github.com/oovi77/Robot-Documentation-) for additional project information. 
@@ -30,10 +35,6 @@ Once you clone the repository, follow the steps below to get it running:
 
 7. Press "ESC" to exit from the main menu.
 
-
-###Related Project Repositories:
- + [Project Documentation](https://github.com/oovi77/Robot-Documentation-)
- + [Platform Controller](https://github.com/kevin-hartwig/Robot_Platform)
 
 ###Contact: 
 
