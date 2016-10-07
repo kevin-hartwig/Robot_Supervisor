@@ -1,4 +1,4 @@
-#__*ERE-EL Platform Repository*__
+#__*ERE-EL Supervisor Repository*__
 
 *Authors: James Sonnenberg, Kevin Hartwig and Ovi Ofrim*
 
@@ -28,7 +28,8 @@ Once you clone the repository, follow the steps below to get it running:
 
 6. Type "quit" at any time to go back to the main menu.
 
-7. Press "ESC" to quit program.
+7. Press "ESC" to exit from the main menu.
+
 
 ###Related Project Repositories:
  + [Project Documentation](https://github.com/oovi77/Robot-Documentation-)
