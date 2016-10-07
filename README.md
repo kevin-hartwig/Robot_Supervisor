@@ -14,11 +14,11 @@ Once you clone the repository, follow the steps below to get it running:
 
 1. a. If using the USB port (i.e., using a serial-USB adapter), enter the following command in the Linux terminal:   
 
-          > *sudo chmod 666 /dev/ttyUSB0*
+        sudo chmod 666 /dev/ttyUSB0
 
    b. If instead you are using the COM port (DB9 connector connected directly to the PC), enter the following command in the linux terminal: 
 
-          > *sudo chmod 666 /dev/ttyS0*
+         sudo chmod 666 /dev/ttyS0
 
 3. Run the executable titled "host"
 
